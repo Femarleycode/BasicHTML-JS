@@ -1,3 +1,3 @@
 # BasicHTML-JS
 
-Auther: Felix Marley
+Author: Felix Marley
